@@ -48,7 +48,7 @@ momenting point image:
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
+video-id:
 https://youtu.be/JI9PzVFJESU
 
 
